@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Enzo Thaylor
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Enzo Thaylor, tenho 17 anos e sou natural de São Paulo. Estou estudando no 3º Ano do Ensino Médio Integrado ao Técnico em Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e busco evoluir cada dia mais.
 
