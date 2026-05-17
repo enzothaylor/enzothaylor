@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Enzo Thaylor
+# 👨🏻‍💻 Enzo Thaylor
 
 **`Desenvolvedora FullStack`**
 
