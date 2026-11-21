@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Enzo Thaylor
 
-**`Estudante de Desenvolvimento de Sistemas | Interesse em Back-end e Dados.`**
+**`Estudante de Desenvolvimento de Sistemas | Interesse em Back-end, IA e Dados.`**
 
 Me chamo Enzo Thaylor, tenho 18 anos e sou natural de São Paulo. Estou estudando no 3º Ano do Ensino Médio Integrado ao Técnico em Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e busco evoluir cada dia mais.
 
